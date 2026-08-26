@@ -1,0 +1,11 @@
+# System / Environment
+powershell.bat
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Dependencies & Build
+node_modules/
+.vercel/
+dist/
+build/
